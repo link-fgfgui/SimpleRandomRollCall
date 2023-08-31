@@ -1,0 +1,12 @@
+#pragma once
+#include "SimpleRandomRollCall.h"
+#include <QApplication>
+#include <QDebug>
+#include <QString>
+#include <QFile>
+#include <QTimer>
+#include <QMessageBox>
+#include <QPushButton>
+#include <QVector>
+#include <QTextStream>
+#include <QRandomGenerator>

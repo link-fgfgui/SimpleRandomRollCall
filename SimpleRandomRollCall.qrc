@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/SimpleRandomRollCall">
+        <file>SimpleRandomRollCall.ico</file>
+    </qresource>
+</RCC>
